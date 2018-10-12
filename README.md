@@ -1,0 +1,2 @@
+# FriendlyBot
+Discord bot
